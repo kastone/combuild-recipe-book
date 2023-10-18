@@ -6,8 +6,10 @@ I tried the usual pandemic recipes with varying success.
 - New York Times fancy Tomato sandwich (Best thing I've discovered in years) https://cooking.nytimes.com/recipes/1017666-tomato-sandwiches
 - Elderberry syrup (never used, still in fridge)
 - David Chang's Momofuku Bossam - I did something wrong, like eating a block of salt.
-- Vegan pb and chocolate cake. Nailed It!
+- Vegan pb and chocolate cake.
 
+- Goal ![goodcake](https://github.com/kastone/combuild-recipe-book/assets/2530576/44119c32-7a15-4d60-aa52-04cb6d8d9ce7)Nailed It! ![mycake](https://github.com/kastone/combuild-recipe-book/assets/2530576/ca6a5d8b-d177-4f5d-ad2a-270187e91cab)
+  
 ## Notes
 These lazy chocolate chip cookies became a Friday night (then Monday, Wednesday, Saturday) staple.
 They helped my family find a little joy in Covid years.
