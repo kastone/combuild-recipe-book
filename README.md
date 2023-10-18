@@ -11,11 +11,11 @@ GitHub is a tool which encourages collaboration and innovation. Open Source work
 - ![GithubAddFile2](https://github.com/kastone/combuild-recipe-book/assets/2530576/37b0bbb6-f6c2-4f65-b07a-ec79b7560c8b)
 
 
-- Step 4: Go here (in a new browser window) and copy the contents of the recipe template and paste into your new file.
+- Step 4: Go here, https://github.com/kastone/combuild-recipe-book/blob/main/recipe-template.md,  (in a new browser window) and copy the contents of the recipe template and paste into your new file.
 Edit the template. This can be a food recipe, food for building community, food for surviving the warming world, or not even food, recipe for teambuilding, etc. 
 Optional upload a picture of the food, your self, a avatar or anything relating to your recipe. To do this, make sure the pic is around 200px by 200px (jpg or png) and simple drag the photo from your local computer file manager into the edit view of the recipe.md file.
 - Step 5: Choose to preview the .md file with the preview tab at the top.
-- Step 6: When you are happy with your recipe, you will be ready to commit the changes to the repository. Click the commit button and enter a good commit message.
-- Now create a Pull Request to merge your changes back to the original owner's repository.
-I will review the PR and add a card to the recipe book.
+- Step 6: When you are happy with your recipe, you will be ready to commit the changes to the repository using the Green 'Commit changes' button. Click the commit button and enter a good commit message, then choose 'Commit Message'.
+
+## Note: if you were developing code, you would create a branch do the work there and then open a PR to merge your commits back to main. However, to keep things simple, here you are committing directly to the main branch. You are a collaborator after all!
 
