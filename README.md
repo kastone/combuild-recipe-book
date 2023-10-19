@@ -6,9 +6,9 @@ Team building exercise Step 2 in our own Hackathon.
 GitHub is a tool which encourages collaboration and innovation. Open Source works due to collaboration and many eyes on the code. It is also about community. To encourage a sense of community within our larger team, please choose a recipe and add it as a markdown file (.md). You don't have to leave your  browser to do this!
 
 - Step 1: You are on your way to becoming a GitHub Guru! Navigate here https://github.com/kastone/combuild-recipe-book. Choose to Fork this repository.
-- 
-- Step 2: After forking Open with GitHub CodeSpaces by clicking Code button - it should drop down and choose the Codespaces tab.
-- 
+  
+- Step 2: After forking the repository ensure you are looking at your own copy of the forked repo. 
+  
 - Step 3: From the top level of the repo, choose "Add File" -> Create File. Type your lastName_firstName and then type a forward slash. You should see that a directory was created and it is waiting for the file name. Type recipe.md
 - ![GithubAddFile2](https://github.com/kastone/combuild-recipe-book/assets/2530576/37b0bbb6-f6c2-4f65-b07a-ec79b7560c8b)
 
