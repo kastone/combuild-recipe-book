@@ -12,8 +12,8 @@ Preheat the oven to 350
 - And a lot of love
 
 **Tools**
-Cake pan
-Mixer
+- Cake pan
+- Mixer
 
 **Tips**
 Do not over bake
